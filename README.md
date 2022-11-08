@@ -13,7 +13,7 @@
 
 
 ### NOTION
-https://northern-chive-84d.notion.site/YeEun-67d2a46f16df4fa280ff99450f980770
+https://www.notion.so/YeEun-67d2a46f16df4fa280ff99450f980770
 
 
 ### BLOG
