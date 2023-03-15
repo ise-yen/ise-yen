@@ -2,18 +2,11 @@
 
 ---
 
-<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ise-yen&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ise-yen&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-안녕하세요. 밥값하는 황예은입니다.
+## Skill
 
-<br>
-
----
-
-</br>
-<div><h1><b>요약</b></h1></div>
-
-<h2>Skill</h2>
 <div align=center>
 
 **Team Coop Tool**
