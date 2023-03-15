@@ -1,4 +1,4 @@
-<p style="color:gray;"><i>해당 글은 <b>vscode</b>로 작성, <b>Git</b>으로 관리, <b>Github</b>에 업로드되고 있습니다.</i><p>
+<span style="color:grey"><i>해당 글은 <b>vscode</b>로 작성, <b>Git</b>으로 관리, <b>Github</b>에 업로드되고 있습니다.</i><span>
 
 ---
 
@@ -10,12 +10,10 @@
 <div align=center>
 
 **Team Coop Tool**
-
+  
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-000000?style=flat-square&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/gitlab-FC6D26?style=flat-square&logo=gitlab&logoColor=white">
-  <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"> 
 </div>
 <br>
 <div align=center>
@@ -47,12 +45,9 @@
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dkfflsl">
 <div>
 
-### NOTION
 
-https://www.notion.so/YeEun-67d2a46f16df4fa280ff99450f980770
 
-### BLOG
-
-https://y-wise.tistory.com/
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fise-yen&count_bg=%23CCB7F3&title_bg=%23574A70&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## Contacts
+[![Notion Badge](http://img.shields.io/badge/-white?style=for-the-badge&logo=Notion&logoColor=black&link=https://www.notion.so/YeEun-67d2a46f16df4fa280ff99450f980770)](https://www.notion.so/YeEun-67d2a46f16df4fa280ff99450f980770)
+[![Tistory Badge](http://img.shields.io/badge/-black?style=for-the-badge&logo=Tistory&link=https://y-wise.tistory.com/)](https://y-wise.tistory.com/)
+[![Gmail Badge](https://img.shields.io/badge/-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ydkrkek@gmail.com)](mailto:ydkrkek@gmail.com)
