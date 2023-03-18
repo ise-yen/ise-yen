@@ -1,9 +1,6 @@
-<span style="color:grey"><i>해당 글은 <b>vscode</b>로 작성, <b>Git</b>으로 관리, <b>Github</b>에 업로드되고 있습니다.</i><span>
-
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ise-yen&count_private=true&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ise-yen&count_private=true&show_icons=true&layout=compact&theme=vue)
-![vn7n24fzkq's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ise-yen&theme=vue) 
 
 ## Skill
 
