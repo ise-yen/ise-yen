@@ -39,6 +39,6 @@
 
 
 ## Contacts
-[![Notion Badge](http://img.shields.io/badge/-white?style=for-the-badge&logo=Notion&logoColor=black&link=https://www.notion.so/YeEun-67d2a46f16df4fa280ff99450f980770)](https://www.notion.so/YeEun-67d2a46f16df4fa280ff99450f980770)
+[![Notion Badge](http://img.shields.io/badge/-white?style=for-the-badge&logo=Notion&logoColor=black&link=https://www.notion.so/YeEun-67d2a46f16df4fa280ff99450f980770)](https://www.notion.so/yeeun-gameclient/fb94e5ef4ce74da39df89c49394ed74c?pvs=4)
 [![Tistory Badge](http://img.shields.io/badge/-black?style=for-the-badge&logo=Tistory&link=https://y-wise.tistory.com/)](https://y-wise.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ydkrkek@gmail.com)](mailto:ydkrkek@gmail.com)
